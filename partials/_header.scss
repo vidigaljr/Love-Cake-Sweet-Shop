@@ -84,11 +84,11 @@ i {
   
   }
 
-@media screen and (max-width: 425px) {
+@media screen and (max-width: 320px) {
     .header-content{
         width: 100%;
         flex-direction: column;
-        margin: 0 12px auto ;
+        margin: 0 auto ;
     }
 }
 
